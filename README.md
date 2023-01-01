@@ -1,5 +1,6 @@
 # JetBot 3D Model
 
+! (jetbot.jpg)
 
 ## 部品リスト
 | 部品 | Link |
