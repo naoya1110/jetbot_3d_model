@@ -1,6 +1,6 @@
 # JetBot 3D Model
 
-! (jetbot.jpg)
+![Jetbot](./jetbot.jpg "JetBot")
 
 ## 部品リスト
 | 部品 | Link |
