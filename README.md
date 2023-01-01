@@ -1,6 +1,6 @@
 # JetBot 3D Model
 
-![Jetbot](./jetbot.jpg "JetBot")
+<img src="jetbot.jpg" width="500px">
 
 ## 部品リスト
 | 部品 | Link |
