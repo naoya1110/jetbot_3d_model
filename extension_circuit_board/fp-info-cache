@@ -1,4 +1,4 @@
-20903541223391233
+20906886921407800
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -87541,3 +87541,17 @@ AE_SW_TOGGLE
 0
 4
 4
+extension_circuit_board
+FeatherWing_DC_Motor_Driver
+
+
+0
+28
+28
+extension_circuit_board
+Jetson Nano Power
+
+
+0
+2
+2
